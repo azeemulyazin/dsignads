@@ -3050,10 +3050,7 @@ button {
 
 /* feature section - end */
 /* feature primary - start */
-.feature_primary,
-.feature_primary_2 {
-  max-width: 300px;
-}
+
 .feature_primary .item_icon,
 .feature_primary_2 .item_icon {
   width: 60px;
@@ -5588,9 +5585,8 @@ blockquote .blockquote_admin i {
 }
 .home_three_slider .item_title {
   line-height: 1;
-  font-size: 100px;
+  font-size: 64px;
   font-weight: 700;
-  letter-spacing: -7px;
   font-family: "Hind", sans-serif;
 }
 .home_three_slider p {
@@ -6347,7 +6343,7 @@ blockquote .blockquote_admin i {
   }
 
   .home_three_slider .item_title {
-    font-size: 90px;
+    font-size: 56px;
   }
 
   .home_three_slider p {
@@ -7125,7 +7121,7 @@ blockquote .blockquote_admin i {
   }
 
   .home_three_slider .item_title {
-    font-size: 78px;
+    font-size: 48px;
   }
 
   .home_three_slider .custom_btn {
@@ -7878,7 +7874,7 @@ blockquote .blockquote_admin i {
   }
 
   .home_three_slider .item_title {
-    font-size: 66px;
+    font-size: 32px;
     margin-bottom: 20px;
   }
 
