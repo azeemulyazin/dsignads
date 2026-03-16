@@ -5899,19 +5899,8 @@ blockquote .blockquote_admin i {
   /* header - end */
 }
 @media screen and (max-width: 1280px) {
-  /* global - start */
-  #backtotop {
-    width: 45px;
-    height: 45px;
-    bottom: 48px;
-  }
+  
 
-  #scroll {
-    font-size: 15px;
-    line-height: 50px;
-  }
-
-  /* global - end */
   /* header - start */
   .header_contact_info li:not(:last-child) {
     margin-right: 20px;
@@ -7048,6 +7037,7 @@ blockquote .blockquote_admin i {
 
   .home_two_banner .item_title {
     font-size: 72px;
+    line-height: 72px;
   }
 
   .home_two_banner .decoration_text {
@@ -7695,18 +7685,7 @@ blockquote .blockquote_admin i {
 7 - media screen and (max-width: 580px) - start
 ==================================================================================================== */
 @media screen and (max-width: 580px) {
-  /* global - start */
-  #backtotop {
-    width: 40px;
-    height: 40px;
-  }
-
-  #scroll {
-    font-size: 14px;
-    line-height: 46px;
-  }
-
-  /* global - end */
+  
   /* header - start */
   .header_bottom {
     min-height: auto;
@@ -7716,6 +7695,9 @@ blockquote .blockquote_admin i {
   .header_section .brand_logo a {
     max-width: 150px;
   }
+  .service_boxed .item_icon img{
+  width: 50px;
+}
 
   .mobilemenu_btns_group button {
     font-size: 16px;
@@ -7860,6 +7842,7 @@ blockquote .blockquote_admin i {
 
   .home_two_banner .item_title {
     font-size: 54px;
+    line-height: 54px;
   }
 
   .home_two_banner .decoration_text {
