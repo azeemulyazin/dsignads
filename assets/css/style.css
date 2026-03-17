@@ -3226,18 +3226,9 @@ button {
   text-align: center;
   position: relative;
   margin: 30px auto 0px;
-}
-.feature_card:before {
-  left: 0px;
-  right: 0px;
-  bottom: 0px;
-  z-index: -1;
-  content: "";
-  height: 50%;
-  position: absolute;
   background-color: #ffffff;
-  box-shadow: 0px 10px 60px 0px rgba(236, 236, 236, 0.78);
 }
+
 .feature_card .item_image {
   display: block;
   overflow: hidden;
